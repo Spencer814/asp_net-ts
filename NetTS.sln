@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "NetTS", "NetTS\NetTS.fsproj", "{BA4286FC-11DC-4C2C-8B87-446603EEA946}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA4286FC-11DC-4C2C-8B87-446603EEA946}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA4286FC-11DC-4C2C-8B87-446603EEA946}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA4286FC-11DC-4C2C-8B87-446603EEA946}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA4286FC-11DC-4C2C-8B87-446603EEA946}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A67CEFE-B216-45FC-A6F4-88455382B4F4}
+	EndGlobalSection
+EndGlobal
