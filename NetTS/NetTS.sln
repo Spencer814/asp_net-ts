@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6C5E92AA-7A7F-462E-A1CD-38F1B99C263D}"
+	ProjectSection(SolutionItems) = preProject
+		tsconfig.json = tsconfig.json
+		package.json = package.json
+	EndProjectSection
+EndProject
+Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "NetTS", "NetTS.fsproj", "{1A8A69B4-54A3-46FB-BA06-540559F16D7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A8A69B4-54A3-46FB-BA06-540559F16D7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A8A69B4-54A3-46FB-BA06-540559F16D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A8A69B4-54A3-46FB-BA06-540559F16D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A8A69B4-54A3-46FB-BA06-540559F16D7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5123E5B5-9D8A-469D-90D2-C03C46008C05}
+	EndGlobalSection
+EndGlobal
